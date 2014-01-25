@@ -1,21 +1,15 @@
-Go JSBox Skeleton
-=================
+Go Contacts App
+===============
 
-Skeleton repository for Vumi Go JSBox applications.
-Use this as a starting point app development.
+Simple app for interacting with the contacts database.
 
 ::
 
     $ npm install .
     $ ./node_modules/.bin/mocha -R spec
 
-Documentation also available for Vumi Go's JSBox `state machine`_ and
-the various resources_ available for the application to interact with.
-
 
 |travis|_
 
-.. |travis| image:: https://travis-ci.org/smn/go-jsbox-skeleton.png?branch=develop
-.. _travis: https://travis-ci.org/smn/go-jsbox-skeleton
-.. _state machine: http://vumi-jssandbox-toolkit.readthedocs.org/en/latest/
-.. _resources: https://vumi-go.readthedocs.org/en/latest/sandbox-resources.html
+.. |travis| image:: https://travis-ci.org/smn/go-contacts.png?branch=develop
+.. _travis: https://travis-ci.org/smn/go-contacts
